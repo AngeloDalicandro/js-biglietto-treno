@@ -29,4 +29,4 @@ console.log( userMessage )
 
 // Stampo
 
-document.getElementById('travel-price').innerHTML = userMessage
+document.getElementById('travel-price').innerHTML = userMessage;
